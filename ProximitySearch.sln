@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProximitySearch", "ProximitySearch\ProximitySearch.csproj", "{730EC8F1-6173-422F-9CFC-15B2C8F79EA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{9291697D-B7C7-4DE0-B992-5308158D2CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730EC8F1-6173-422F-9CFC-15B2C8F79EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730EC8F1-6173-422F-9CFC-15B2C8F79EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730EC8F1-6173-422F-9CFC-15B2C8F79EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730EC8F1-6173-422F-9CFC-15B2C8F79EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9291697D-B7C7-4DE0-B992-5308158D2CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9291697D-B7C7-4DE0-B992-5308158D2CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9291697D-B7C7-4DE0-B992-5308158D2CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9291697D-B7C7-4DE0-B992-5308158D2CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A0B4AFE-F977-45CF-8321-AC71E9CED273}
+	EndGlobalSection
+EndGlobal
